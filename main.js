@@ -1,4 +1,4 @@
- var seg = 0;
+  var seg = 0;
   var min = 0;
   var hor = 0;
   var intervalo;
